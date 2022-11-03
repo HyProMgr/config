@@ -3,7 +3,7 @@
 // 本项目由 TPXZ SATM McKay@tpxz.com 进行维护!
 // 修正日期 2022.11.03 app_1103.json
 
-{"spider":"http://js.134584.xyz/jar/77.jar",
+{"spider":"https://hypromgr.github.io/config/osc/jar/app_1103.jar",
 
 "lives": [{"group": "redirect","channels": [{"name":"『live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9oeXByb21nci5naXRodWIuaW8vY29uZmlnL29zYy9hcHBfMTEwM19saXZlLnR4dA=="]}]}],
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
