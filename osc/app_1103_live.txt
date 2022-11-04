@@ -4,11 +4,6 @@
 更新于2022.11.04,http://39.134.32.102:6610/270000001111/1110000301/index.m3u8?IASHttpSessionId=OTT$超清1080P
 维护更新 McKay@tpxz.com,http://39.134.32.102:6610/270000001111/1110000301/index.m3u8?IASHttpSessionId=OTT$超清1080P
 
-
-
-🇨🇳｜测试地址,#genre#
-测试系统,https://dh5.cntv.myhwcdn.cn/asp/h5e/hls/main/0303000a/3/default/0a3577f5cedd494a8d21f5741ddd1e12/main.m3u8?IASHttpSessionId=OTT$狗子测试
-
 🇨🇳｜央视频道,#genre#
 CCTV1,http://39.134.32.102:6610/270000001111/1110000301/index.m3u8?IASHttpSessionId=OTT$超清1080P
 CCTV1,http://111.20.33.70/PLTV/88888893/224/3221226010/index.m3u8$超清1080P
